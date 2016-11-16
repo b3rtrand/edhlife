@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EDHLife</string>
+    <string name="restart">Новая игра</string>
+    <string name="reset">Сбросить все</string>
+</resources>
